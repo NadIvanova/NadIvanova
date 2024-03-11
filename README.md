@@ -27,7 +27,7 @@
 </p>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-<b>Lets connect</b>
+<b>Let's connect</b>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nadia-ivanova-94194b53/"> 

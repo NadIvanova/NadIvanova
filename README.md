@@ -2,6 +2,8 @@
 <b>My name is Nadia Ivanova. I would like to become a data professional.<b>
 
 <p></p>
+<br>
+
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
 <b>I have experience using these data analysis tools:<b>
@@ -15,6 +17,8 @@
 
 </p>
 
+<br>
+
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
 
 <b>I have also experience using these data visualization tools:<b>
@@ -24,7 +28,10 @@
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+  
 </p>
+
+<br>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 <b>Let's connect</b>
